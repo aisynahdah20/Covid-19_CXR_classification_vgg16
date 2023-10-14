@@ -21,7 +21,7 @@ The dataset used for training, valdation, evaluation is (https://www.kaggle.com/
 
 ## Model Architecture
 
-We utilized a pre-trained VGG16 model as the backbone for this classification task. The model was built with Transfer Learning on our dataset and achieved excellent performance. Details on the model's architecture can be found in the [model directory](model/). 
+We utilized a pre-trained VGG16 model as the backbone for this classification task. The model was built with transfer learning on our dataset and achieved excellent performance. Details on the model's architecture can be found in the [model directory](model/). 
 
 ## Results
 
