@@ -25,7 +25,7 @@ We utilized a pre-trained VGG16 model as the backbone for this classification ta
 
 ## Results
 
-Our trained model achieved a 93.75% accuracy, 94.5% precision, and 94% recall on the test dataset, demonstrating its effectiveness in COVID-19 detection. You can find more detailed performance metrics in the [results directory](results/).
+Our trained model achieved a 93.75% accuracy, 94.5% precision, and 94% recall on the test dataset, demonstrating its effectiveness in COVID-19 detection. You can find confusion matrix and graphic visualization for accuracy and loss in the [results directory](results/).
 
 ## License
 
