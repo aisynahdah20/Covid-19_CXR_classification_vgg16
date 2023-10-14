@@ -24,22 +24,20 @@ The dataset used for training, valdation, evaluation is (https://www.kaggle.com/
 
 ## Model Architecture
 
-We utilized a pre-trained VGG16 model as the backbone for this classification task. The model was built with Transfer Learning on our dataset and achieved excellent performance. Details on the model's architecture and how to reproduce the training process can be found in the [model directory](model/).
+We utilized a pre-trained VGG16 model as the backbone for this classification task. The model was built with Transfer Learning on our dataset and achieved excellent performance. Details on the model's architecture and how to reproduce the training process can be found in the [Architecture Transfer Learning VGG16 binary class.png].
 
 ## Results
 
-Our trained model achieved a [mention your model's accuracy, F1 score, or other relevant metrics] on the test dataset, demonstrating its effectiveness in COVID-19 detection. You can find more detailed performance metrics in the [results directory](results/).
+Our trained model achieved a 93.75% accuracy, 94.5% precision, and 94% recall on the test dataset, demonstrating its effectiveness in COVID-19 detection.
 
-## Contributing
 
-We welcome contributions to improve and expand this project. If you have ideas, bug fixes, or enhancements, please refer to our [Contributing Guidelines](CONTRIBUTING.md) to get started.
 
 ## License
 
-This project is licensed under the [License Name](LICENSE) - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 **Note:** Always follow ethical guidelines and ensure proper permissions and consents when working with medical data.
 
-For more information or inquiries, please contact [Your Name](mailto:youremail@example.com).
+For more information or inquiries, please contact [Aisy Nahdah](mailto:nidanahdah@gmail.com).
